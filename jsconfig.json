@@ -2,5 +2,5 @@
   "compilerOptions": {
     "baseUrl": "src"
   },
-  "include": ["src"]
+  "include": ["src", "../goit-react-hw-02-phonebook/src/components"]
 }

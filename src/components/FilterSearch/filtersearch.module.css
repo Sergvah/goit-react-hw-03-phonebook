@@ -1,0 +1,11 @@
+.find {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 300px;
+  padding: 20px;
+}
+.search {
+  margin-top: 20px;
+  width: 100px;
+}

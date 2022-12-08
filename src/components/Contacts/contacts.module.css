@@ -1,0 +1,9 @@
+.form {
+  align-items: center;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  border: 1px solid;
+  gap: 20px;
+}
